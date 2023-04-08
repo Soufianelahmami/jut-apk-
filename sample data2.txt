@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app1","desc":"Shopping has become a crucial part of our lives. We all have different needs and desires, and shopping helps us fulfill them. But, with the current scenario, where everything has gone digital,","photo":"https://iili.io/HkjCR0g.jpg"},
+  {"title":"helper pack 2","desc":"shopping has become more convenient and accessible than ever before. One such application that has made shopping easier is the Jut APK application.","photo":"https://iili.io/HkjCAqF.jpg"},
+  {"title":"advance mod 3","desc":"Jut APK application is a shopping app that allows you to buy products from various e-commerce websites like Amazon, Flipkart, Myntra, Ajio, etc., all in one place. You can browse through a wide range of products, compare prices, and place your order within the app.","photo":"https://iili.io/HkjC5ga.jpg"},
+  {"title":"tips mod 4","desc":"You can purchase goods from numerous e-commerce websites, including as Amazon, Flipkart, Myntra, Ajio, etc., all in one location with the help of the Jut APK program. Within the app, you may browse a variety of products, evaluate costs, and place your order.","photo":"https://iili.io/HkjCYdJ.png"},
+  {"title":"advice pack 5","desc":"With Jut APK, you don't need to download individual apps for each e-commerce platform, making it a one-stop-shop for all your shopping needs.","photo":"https://iili.io/HkjCa5v.jpg"},
+  {"title":"how to use this app 6","desc":"With Jut APK, you don't need to download individual apps for each e-commerce platform, making it a one-stop-shop for all your shopping needs.","photo":"https://iili.io/HkjCceR.jpg"},
+  {"title":"helper mod 7","desc":"The app also has a search bar feature that allows you to search for specific products and brands. You can also filter the products based on various criteria like price, popularity, and brand.","photo":"https://iili.io/HkjC1zN.jpg"},
+  {"title":"advance pack 8","desc":"You can use the app's search bar feature to look up particular goods and brands. The products can also be filtered according to a number of factors, including brand, popularity, and price.","photo":"https://iili.io/HkjClbp.jpg"}
 
    ]
  
